@@ -24,7 +24,13 @@ output: github_document
 
 ##數值變數運算
 ```{r}
-#這是R Code Chunk
+num1 <- 3561
+num2 <- 5815
+
+num1 + num2
+num1 - num2
+
+
 ```
 
 ##檢查總覽資料
